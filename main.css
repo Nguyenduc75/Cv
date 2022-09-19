@@ -1,0 +1,41 @@
+html{background-color: aquamarine;}
+.ten {text-align: center; color:blue}
+.left-column { width:45%; 
+    height:max-content; 
+    float:left; 
+    background-color:lightgreen; 
+    width:350px;
+    padding-bottom: 150px;
+    
+  }
+.right-column { width:45%; 
+  height:max-content; 
+  float:right; 
+}
+
+
+body {
+    padding:30px 40px;
+
+    
+}
+
+
+
+
+.muctieu {
+    width:fit-content;
+  padding-right: 20px;
+  box-sizing:border-box;
+}
+
+footer {
+  background-color:dimgrey;
+  color:azure;
+  height: 40px;
+  line-height: 5px;
+  position:fixed;
+  bottom: 0;
+  left: 10px;
+  width: 100%;
+} 
